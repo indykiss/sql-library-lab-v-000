@@ -26,7 +26,7 @@ motto TEXT,
 series_id TEXT,
 author_id TEXT);
 
-CREATE TABLE characters (
+CREATE TABLE character_books (
 name INTEGER PRIMARY KEY,
 species TEXT,
 motto TEXT,
