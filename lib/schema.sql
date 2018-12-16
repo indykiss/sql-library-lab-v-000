@@ -11,9 +11,7 @@ name TEXT);
 
 CREATE TABLE authors (
 id INTEGER PRIMARY KEY,
-name TEXT,
-author_id TEXT,
-subgenre_id TEXT);
+name TEXT);
 
 CREATE TABLE books (
 id INTEGER PRIMARY KEY,
