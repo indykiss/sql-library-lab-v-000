@@ -1,4 +1,4 @@
 
 
 
-UPDATE characters SET species = '' WHERE character.name = 'Martian';
+UPDATE characters SET charcter.name = 'Martian' WHERE character.name = '';
