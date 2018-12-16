@@ -4,7 +4,7 @@ title INTEGER PRIMARY KEY,
 author_id TEXT,
 subgenre_id TEXT);
 
-CREATE TABLE series (
+CREATE TABLE subgenres (
 title INTEGER PRIMARY KEY,
 author_id TEXT,
 subgenre_id TEXT);
