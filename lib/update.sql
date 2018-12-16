@@ -8,6 +8,6 @@ motto TEXT,
 series_id INTEGER,
 author_id INTEGER);
 
-UPDATE characters SET characters.species = "Martian" WHERE name = "cylon";
+UPDATE characters SET characters.species = "Martian" WHERE characters.name = "cylon";
 
 
