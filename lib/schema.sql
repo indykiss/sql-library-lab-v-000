@@ -31,7 +31,7 @@ CREATE TABLE character_books (
 id INTEGER PRIMARY KEY,
 species TEXT,
 motto TEXT,
-series_id TEXT,
+book_id TEXT,
 author_id TEXT);
 
 
