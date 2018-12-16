@@ -23,7 +23,7 @@ series_id TEXT);
 
 CREATE TABLE characters (
 id INTEGER PRIMARY KEY,
-title TEXT,
+name TEXT,
 species TEXT,
 motto TEXT,
 series_id TEXT,
