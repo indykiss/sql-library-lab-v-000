@@ -21,7 +21,7 @@ series_id TEXT);
 
 CREATE TABLE characters (
 name INTEGER PRIMARY KEY,
-year TEXT,
+species TEXT,
 series_id TEXT);
 
 
