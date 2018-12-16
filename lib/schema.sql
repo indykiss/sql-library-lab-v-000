@@ -1,14 +1,16 @@
 
 CREATE TABLE series (
-id INTEGER PRIMARY KEY
+id INTEGER PRIMARY KEY,
 title INTEGER,
 author_id TEXT,
 subgenre_id TEXT);
 
 CREATE TABLE subgenres (
-name INTEGER PRIMARY KEY);
+id INTEGER PRIMARY KEY,
+name INTEGER);
 
 CREATE TABLE authors (
+id INTEGER PRIMARY KEY,
 name INTEGER PRIMARY KEY,
 author_id TEXT,
 subgenre_id TEXT);
