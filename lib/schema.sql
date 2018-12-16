@@ -26,5 +26,13 @@ motto TEXT,
 series_id TEXT,
 author_id TEXT);
 
+CREATE TABLE characters (
+name INTEGER PRIMARY KEY,
+species TEXT,
+motto TEXT,
+series_id TEXT,
+author_id TEXT);
+
+
 
 
