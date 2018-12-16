@@ -29,8 +29,6 @@ author_id TEXT);
 
 CREATE TABLE character_books (
 id INTEGER PRIMARY KEY,
-species TEXT,
-motto TEXT,
 book_id TEXT,
 author_id TEXT);
 
