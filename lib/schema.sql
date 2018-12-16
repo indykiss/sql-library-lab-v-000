@@ -19,4 +19,7 @@ title INTEGER PRIMARY KEY,
 year TEXT,
 series_id TEXT);
 
-
+CREATE TABLE books (
+title INTEGER PRIMARY KEY,
+year TEXT,
+series_id TEXT);
