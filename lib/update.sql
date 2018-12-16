@@ -1,4 +1,4 @@
 
 
 
-UPDATE characters SET charcter.name = 'Martian' WHERE character.name = '';
+UPDATE characters SET charcter.name = 'Martian' WHERE character.name = 'Second Series';
