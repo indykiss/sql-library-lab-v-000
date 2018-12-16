@@ -1,5 +1,5 @@
 
 
-INSERT 
+INSERT into series 
 
 
