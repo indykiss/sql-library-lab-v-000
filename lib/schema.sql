@@ -20,7 +20,7 @@ year TEXT,
 series_id TEXT);
 
 CREATE TABLE characters (
-title INTEGER PRIMARY KEY,
+name INTEGER PRIMARY KEY,
 year TEXT,
 series_id TEXT);
 
