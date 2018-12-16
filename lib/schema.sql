@@ -2,7 +2,7 @@
 CREATE TABLE series (
 id INTEGER PRIMARY KEY,
 author_id TEXT,
- TEXT,
+subgenre_id TEXT,
  INTEGER,
  DATE, 
  DATE
