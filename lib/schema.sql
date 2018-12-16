@@ -16,7 +16,7 @@ subgenre_id TEXT);
 
 CREATE TABLE books (
 title INTEGER PRIMARY KEY,
-author_id TEXT,
+year TEXT,
 subgenre_id TEXT);
 
 
